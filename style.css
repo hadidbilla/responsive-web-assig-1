@@ -1,0 +1,58 @@
+.butn{
+    width: 170px;
+    height: 60px;
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 8px;
+}
+.butn img{
+    width: 30px; height: 30px; padding-right:10px ;
+    
+}
+.butn a{
+    text-decoration: none;
+}
+.butn a p{
+    padding-top: 13px; color: white;
+}
+.bord{
+    border: 0;
+    background-color: white;
+}
+.gula{
+    border-radius: 8px ;
+}
+.mrginee{
+    margin-bottom: 50px;
+}
+.sorana-kan a{
+    padding-right: 20px;
+    margin-left: 28px;
+    color: #3C3C3C;
+}
+.botn{
+    border: 0;
+}
+.see{
+    color: white;
+    background-color: coral;
+    padding: 10px 16px;
+    border: 0;
+    border-radius: 8px;
+}
+.inp{
+    width: 250px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+.lastar{
+    border-radius: 10px; background-color: white;
+}
+.e{
+    background-color: #F1F1F1;
+}
+.gula img{
+    width: 78px; height: 82px; padding-left: 8px;
+}
+.price{
+    font-weight: 900; color: #FA804C;
+}
